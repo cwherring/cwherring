@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cwherring, Chris Herring
 - 👀 I’m interested in ...  C#, tSql, .Net, Snowflake, SnowSql, Python, Data Science
-- 🌱 I’m currently learning ... Snowflake
+- 🌱 I’m currently learning ... React and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
